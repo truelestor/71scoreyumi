@@ -1,0 +1,18 @@
+{
+  "name": "71scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "free credit score check ◄ Get Your FREE Credit Score free credit score check, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "free credit score check",
+    "best credit score to buy a house",
+    "737 credit score",
+    "which credit score is used to buy a house",
+    "credit score keybank"
+  ],
+  "repository": "https://github.com/truelestor/71scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
